@@ -5,6 +5,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Print greating
-        run: echo"hello wold"
+        run: echo "hello wold"
       - name: Print goodbye
         run: echo "done - bye!"
